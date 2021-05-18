@@ -12,4 +12,7 @@ function floor(x){
 function mult(a,b){
     return a*b;
 }
+function area(r){
+    return 3.14*r*r;
+}
 
