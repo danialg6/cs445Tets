@@ -16,4 +16,7 @@ function volume(a,b,h){
     let v=a*b*h;
     return v;
 }
+function merge(a,b){
+    let c=a.concat(b);
+}
 
