@@ -12,7 +12,13 @@ function floor(x){
 function mult(a,b){
     return a*b;
 }
+
 function area(r){
     return 3.14*r*r;
+
+function volume(a,b,h){
+    let v=a*b*h;
+    return v;
+
 }
 
