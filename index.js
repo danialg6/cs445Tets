@@ -19,4 +19,7 @@ function volume(a,b,h){
 function merge(a,b){
     let c=a.concat(b);
 }
+function printName(name){
+    console.log(name)
+}
 
