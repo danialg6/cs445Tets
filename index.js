@@ -21,7 +21,4 @@ function volume(a,b,h){
     return v;
 
 }
-function printName(name){
-    console.log(name)
-}
 
